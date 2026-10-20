@@ -20,6 +20,12 @@
         ],
         "createdAt": "2026-10-20T17:48:03.206Z",
         "reason": "Remaining sizes are the 14/16/18 UI text steps under a clamp()-based Cal Sans heading scale (22-80px) the detector doesn't count; sweep consolidated 15/17/19-24 already"
+      },
+      {
+        "rule": "design-system-radius",
+        "value": "6px",
+        "createdAt": "2026-10-20T17:54:03.966Z",
+        "reason": "6px is the global :focus-visible ring rounding (browser surface), not a component shape"
       }
     ]
   }
