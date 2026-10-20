@@ -1,0 +1,529 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-20T17:52:31.268035+00:00",
+  "title": "Design System: Kelluc Epoxy",
+  "extensions": {
+    "colorMeta": {
+      "red": {
+        "role": "primary",
+        "displayName": "Triquetra Red",
+        "canonical": "#d42a2f",
+        "oklch": "oklch(56.6% 0.205 25.6)",
+        "tonalRamp": [
+          "#320000",
+          "#5e0000",
+          "#8c0000",
+          "#ba0017",
+          "#e33b3c",
+          "#ff645e",
+          "#ff9288",
+          "#ffc1b5"
+        ]
+      },
+      "red-hover": {
+        "role": "primary",
+        "displayName": "Pressed Red",
+        "canonical": "#b8232a",
+        "oklch": "oklch(51.0% 0.184 24.8)",
+        "tonalRamp": [
+          "#300000",
+          "#5a0000",
+          "#870005",
+          "#b21b25",
+          "#db4847",
+          "#ff6e68",
+          "#ff9890",
+          "#ffc5bc"
+        ]
+      },
+      "red-ink": {
+        "role": "primary",
+        "displayName": "Ink Red",
+        "canonical": "#b01e24",
+        "oklch": "oklch(49.0% 0.180 25.5)",
+        "tonalRamp": [
+          "#2f0000",
+          "#590000",
+          "#860004",
+          "#b11f25",
+          "#d94a46",
+          "#ff6f68",
+          "#ff9a90",
+          "#ffc6bb"
+        ]
+      },
+      "red-on-dark": {
+        "role": "primary",
+        "displayName": "Signal Red",
+        "canonical": "#ff6b6b",
+        "oklch": "oklch(71.2% 0.181 22.8)",
+        "tonalRamp": [
+          "#2f0000",
+          "#590000",
+          "#86000e",
+          "#b11d2c",
+          "#d9484c",
+          "#ff6e6e",
+          "#ff9995",
+          "#ffc5c0"
+        ]
+      },
+      "red-display": {
+        "role": "primary",
+        "displayName": "Display Red",
+        "canonical": "#f2484d",
+        "oklch": "oklch(64.7% 0.206 23.6)",
+        "tonalRamp": [
+          "#330000",
+          "#5e0000",
+          "#8c0000",
+          "#ba001e",
+          "#e33941",
+          "#ff6263",
+          "#ff918d",
+          "#ffc0b9"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "#f4f5f8",
+        "oklch": "oklch(97.0% 0.004 271.4)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#242527",
+          "#414244",
+          "#606164",
+          "#818285",
+          "#a4a5a8",
+          "#c8c9cc",
+          "#edeef1"
+        ]
+      },
+      "card": {
+        "role": "neutral",
+        "displayName": "White Card",
+        "canonical": "#ffffff",
+        "oklch": "oklch(100.0% 0.000 89.9)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "field": {
+        "role": "neutral",
+        "displayName": "Field Grey",
+        "canonical": "#e7eaf0",
+        "oklch": "oklch(93.6% 0.009 264.5)",
+        "tonalRamp": [
+          "#090b0f",
+          "#232529",
+          "#404247",
+          "#5f6166",
+          "#808288",
+          "#a2a5ab",
+          "#c6c9cf",
+          "#ebeef5"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#161d29",
+        "oklch": "oklch(23.0% 0.026 261.0)",
+        "tonalRamp": [
+          "#060b16",
+          "#1e2532",
+          "#3a4250",
+          "#596270",
+          "#7a8392",
+          "#9ca6b6",
+          "#c0cada",
+          "#e5efff"
+        ]
+      },
+      "body": {
+        "role": "neutral",
+        "displayName": "Body Slate",
+        "canonical": "#2b3442",
+        "oklch": "oklch(32.3% 0.028 259.1)",
+        "tonalRamp": [
+          "#050b17",
+          "#1d2533",
+          "#394351",
+          "#586271",
+          "#788393",
+          "#9ba6b7",
+          "#bfcadc",
+          "#e4efff"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft Slate",
+        "canonical": "#4e5868",
+        "oklch": "oklch(45.8% 0.029 259.8)",
+        "tonalRamp": [
+          "#050b17",
+          "#1d2533",
+          "#394252",
+          "#586272",
+          "#788394",
+          "#9ba6b8",
+          "#becadd",
+          "#e3efff"
+        ]
+      },
+      "navy": {
+        "role": "neutral",
+        "displayName": "Graphite Navy",
+        "canonical": "#1f2836",
+        "oklch": "oklch(27.5% 0.029 259.1)",
+        "tonalRamp": [
+          "#050b17",
+          "#1d2533",
+          "#394352",
+          "#576272",
+          "#788394",
+          "#9aa6b8",
+          "#becadd",
+          "#e3efff"
+        ]
+      },
+      "deep": {
+        "role": "neutral",
+        "displayName": "Deep Navy",
+        "canonical": "#141a25",
+        "oklch": "oklch(21.7% 0.024 262.3)",
+        "tonalRamp": [
+          "#060b15",
+          "#1f2531",
+          "#3b424f",
+          "#5a626f",
+          "#7b8391",
+          "#9da5b4",
+          "#c1cad9",
+          "#e6efff"
+        ]
+      },
+      "on-dark": {
+        "role": "neutral",
+        "displayName": "On-Dark",
+        "canonical": "#f4f6fa",
+        "oklch": "oklch(97.3% 0.006 264.5)",
+        "tonalRamp": [
+          "#0a0b0e",
+          "#242528",
+          "#404245",
+          "#5f6165",
+          "#808286",
+          "#a3a5a9",
+          "#c7c9cd",
+          "#eceef2"
+        ]
+      },
+      "on-dark-soft": {
+        "role": "neutral",
+        "displayName": "On-Dark Soft",
+        "canonical": "#c4cbd8",
+        "oklch": "oklch(84.1% 0.020 263.0)",
+        "tonalRamp": [
+          "#070b14",
+          "#20252f",
+          "#3c424d",
+          "#5b616d",
+          "#7c838f",
+          "#9fa5b2",
+          "#c2c9d6",
+          "#e8effc"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "rgba(22,29,41,.12)"
+      },
+      "focus": {
+        "role": "functional",
+        "displayName": "Focus Blue",
+        "canonical": "#2f66d0",
+        "oklch": "oklch(53.4% 0.174 261.8)",
+        "tonalRamp": [
+          "#00003f",
+          "#00176a",
+          "#043798",
+          "#2359c2",
+          "#447de9",
+          "#66a1ff",
+          "#8dc7ff",
+          "#b9eeff"
+        ]
+      },
+      "error": {
+        "role": "functional",
+        "displayName": "Error",
+        "canonical": "#b3261e",
+        "oklch": "oklch(50.1% 0.178 28.7)",
+        "tonalRamp": [
+          "#2f0000",
+          "#590000",
+          "#850000",
+          "#b0221b",
+          "#d84c3f",
+          "#ff7161",
+          "#ff9b89",
+          "#ffc8b6"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero H1 only; letter bounce-in."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section H2s."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Every list item: rows, steps, claims, card caption."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Buttons, form labels, wordmark."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Line under a heading, max 38ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Running text and inputs."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "(optional) marks beside field labels."
+      }
+    },
+    "shadows": [
+      {
+        "name": "float-lift",
+        "value": "0 10px 28px rgba(10,14,22,.32)",
+        "purpose": "Floating Messenger circle only."
+      }
+    ],
+    "textures": [
+      {
+        "name": "deep-lines",
+        "value": "repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px)",
+        "purpose": "Deep-navy bands and footer; never above ~4% white."
+      }
+    ],
+    "overlays": [
+      {
+        "name": "hero-overlay",
+        "value": "linear-gradient(180deg,rgba(20,26,37,.88) 0%,rgba(20,26,37,.8) 60%,rgba(20,26,37,.82) 80%,rgba(20,26,37,.62) 100%)",
+        "purpose": "Deep navy over the hero photo; photo blurred 3px under 760px."
+      },
+      {
+        "name": "card-scrim",
+        "value": "linear-gradient(180deg,transparent,rgba(20,26,37,.86)) over the bottom 45%",
+        "purpose": "Work photo caption legibility."
+      }
+    ],
+    "focus": [
+      {
+        "name": "focus-light",
+        "value": "3px solid #2f66d0, offset 3px",
+        "purpose": "Light grounds and form controls."
+      },
+      {
+        "name": "focus-dark",
+        "value": "3px solid #ff6b6b, offset 3px",
+        "purpose": "Navy, deep navy, hero, footer."
+      }
+    ],
+    "motion": [
+      {
+        "name": "letter-bounce",
+        "value": "1s cubic-bezier(.34,1.56,.64,1), translateX(50px)->0, 20ms stagger",
+        "purpose": "Hero H1 only."
+      },
+      {
+        "name": "fade-up",
+        "value": "opacity + translateY(12px), .4s ease-out",
+        "purpose": "Content below the first screen, IntersectionObserver."
+      },
+      {
+        "name": "float-slide",
+        "value": "transform .35s cubic-bezier(.2,.8,.2,1)",
+        "purpose": "Floating circle in and out."
+      },
+      {
+        "name": "state",
+        "value": ".2s (buttons, arrows), .15s (fields, chips); press scale(.98) .12s",
+        "purpose": "Hover and press."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone-narrow",
+        "value": "380px"
+      },
+      {
+        "name": "tablet",
+        "value": "760px"
+      },
+      {
+        "name": "desktop",
+        "value": "1024px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Red pill for quote and Messenger actions; white text, darker red on hover.",
+      "html": "<a class=\"ds-btn ds-btn-primary\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M12 2C6.4 2 2 6.1 2 11.7c0 2.9 1.2 5.5 3.2 7.2.2.1.3.4.3.6l.1 1.8c0 .6.6 1 1.2.8l2-.9c.2-.1.4-.1.6 0 .9.3 1.8.4 2.7.4 5.6 0 10-4.1 10-9.7S17.6 2 12 2z\"/></svg>Message Kelluc Epoxy</a>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s}.ds-btn:active{transform:scale(.98)}.ds-btn-primary{background:var(--red);color:#fff;border-color:var(--red)}.ds-btn-primary:hover{background:var(--red-2);border-color:var(--red-2)}.ds-btn-primary:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Second hero action on dark: transparent pill with a 70% white outline.",
+      "html": "<div class=\"ds-dark\"><a class=\"ds-btn ds-btn-ghost\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"20\" height=\"20\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M12 2C6.4 2 2 6.1 2 11.7c0 2.9 1.2 5.5 3.2 7.2.2.1.3.4.3.6l.1 1.8c0 .6.6 1 1.2.8l2-.9c.2-.1.4-.1.6 0 .9.3 1.8.4 2.7.4 5.6 0 10-4.1 10-9.7S17.6 2 12 2z\"/></svg>Message on Facebook</a></div>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s}.ds-btn:active{transform:scale(.98)}.ds-dark{background:var(--deep);padding:24px}.ds-btn-ghost{background:transparent;color:var(--on-dark);border-color:rgba(244,246,250,.7)}.ds-btn-ghost:hover{border-color:#fff;background:rgba(255,255,255,.1)}.ds-btn-ghost:focus-visible{outline:3px solid var(--red-on-dark);outline-offset:3px}"
+    },
+    {
+      "name": "Quiet Button",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "White pill with ink outline for copy-message fallback actions.",
+      "html": "<button class=\"ds-btn ds-btn-quiet\" type=\"button\">Copy message</button>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:400 18px/1 var(--display);text-decoration:none;cursor:pointer;border:2px solid transparent;transition:background-color .2s,color .2s,border-color .2s,transform .12s}.ds-btn:active{transform:scale(.98)}.ds-btn-quiet{min-height:48px;padding:0 20px;font-size:16px;background:#fff;color:var(--ink);border-color:var(--ink)}.ds-btn-quiet:hover,.ds-btn-quiet:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Field Grey fill, 10px radius, Cal Sans label; focus-blue border on hover and focus.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-n\">Your name</label><input class=\"ds-input\" id=\"ds-n\" type=\"text\" placeholder=\"First name is fine\"></div>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-field{display:grid;gap:8px;background:#fff;padding:24px;border-radius:24px}.ds-field label{font:400 18px/1.2 var(--display);color:var(--ink)}.ds-input{width:100%;box-sizing:border-box;font:16px/1.4 var(--text);color:var(--ink);background:var(--field);border:2px solid transparent;border-radius:10px;padding:13px 14px;min-height:52px;caret-color:var(--focus);transition:border-color .15s}.ds-input::placeholder{color:#5f6878}.ds-input:hover,.ds-input:focus{outline:none;border-color:var(--focus)}"
+    },
+    {
+      "name": "Choice Chips",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Radio chips for job type: grey pills, ink fill when selected.",
+      "html": "<div class=\"ds-chips\"><input type=\"radio\" name=\"ds-j\" id=\"ds-j1\" checked><label for=\"ds-j1\">Garage floor</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j2\"><label for=\"ds-j2\">Basement</label><input type=\"radio\" name=\"ds-j\" id=\"ds-j3\"><label for=\"ds-j3\">Front entrance</label></div>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-chips{display:flex;flex-wrap:wrap;gap:10px;background:#fff;padding:24px}.ds-chips input{position:absolute;opacity:0;width:1px;height:1px}.ds-chips label{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:999px;background:var(--field);border:2px solid transparent;font:16px/1 var(--text);color:var(--ink);cursor:pointer;transition:border-color .15s,background-color .15s,color .15s}.ds-chips label:hover{border-color:var(--focus)}.ds-chips input:focus-visible+label{border-color:var(--focus);outline:3px solid var(--focus);outline-offset:2px}.ds-chips input:checked+label{background:var(--ink);color:#fff}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "Linked row on navy; only the arrow circle fills red on hover.",
+      "html": "<div class=\"ds-navy\"><a class=\"ds-row\" href=\"#\">Garage floors<span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></span></a></div>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-navy{background:var(--navy);padding:24px}.ds-row{display:flex;align-items:center;justify-content:space-between;gap:16px;min-height:64px;padding:12px 14px 12px 22px;background:rgba(255,255,255,.06);border-radius:18px;color:var(--on-dark);text-decoration:none;font:400 22px/1.2 var(--display)}.ds-row:focus-visible{outline:none}.ds-arrow{width:44px;height:44px;flex:none;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.1);color:var(--on-dark);transition:background-color .2s,color .2s}.ds-row:hover .ds-arrow{background:var(--red);color:#fff}.ds-row:focus-visible .ds-arrow{background:var(--red);color:#fff;outline:3px solid var(--red-on-dark);outline-offset:3px}"
+    },
+    {
+      "name": "Numbered Step",
+      "kind": "custom",
+      "refersTo": "step-number",
+      "description": "Red numeral circle with a Cal Sans title on textured deep navy.",
+      "html": "<ol class=\"ds-steps\"><li><div><b>Message us.</b><span>Tell us about your floor.</span></div></li><li><div><b>Get your free quote.</b><span>No obligation, ever.</span></div></li></ol>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-steps{list-style:none;margin:0;padding:24px;display:grid;gap:24px;counter-reset:s;background-color:var(--deep);background-image:repeating-linear-gradient(135deg,transparent 0 22px,rgba(255,255,255,.035) 22px 23px);color:#c4cbd8;font:16px/1.7 var(--text)}.ds-steps li{display:grid;grid-template-columns:48px 1fr;gap:16px;counter-increment:s}.ds-steps li::before{content:counter(s);width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:var(--red);color:#fff;font:400 20px/1 var(--display)}.ds-steps b{display:block;font:400 22px/1.2 var(--display);color:var(--on-dark);margin-top:4px}.ds-steps span{display:block;margin-top:4px}"
+    },
+    {
+      "name": "Floating Messenger Circle",
+      "kind": "custom",
+      "refersTo": "float-messenger",
+      "description": "60px red circle bottom right; the only shadowed element.",
+      "html": "<a class=\"ds-float\" href=\"#\" aria-label=\"Message on Facebook\"><svg viewBox=\"0 0 24 24\" width=\"28\" height=\"28\" aria-hidden=\"true\"><path fill=\"currentColor\" d=\"M12 2C6.4 2 2 6.1 2 11.7c0 2.9 1.2 5.5 3.2 7.2.2.1.3.4.3.6l.1 1.8c0 .6.6 1 1.2.8l2-.9c.2-.1.4-.1.6 0 .9.3 1.8.4 2.7.4 5.6 0 10-4.1 10-9.7S17.6 2 12 2z\"/></svg></a>",
+      "css": ":host{--paper:#f4f5f8;--card:#fff;--field:#e7eaf0;--ink:#161d29;--navy:#1f2836;--deep:#141a25;--on-dark:#f4f6fa;--red:#d42a2f;--red-2:#b8232a;--red-on-dark:#ff6b6b;--focus:#2f66d0;--display:\"Cal Sans\",\"Avenir Next\",\"Segoe UI\",system-ui,sans-serif;--text:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif}.ds-float{width:60px;height:60px;border-radius:50%;display:grid;place-items:center;background:var(--red);color:#fff;box-shadow:0 10px 28px rgba(10,14,22,.32)}.ds-float:focus-visible{outline:3px solid var(--focus);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Finished Floor",
+    "overview": "A calm, phone-first page that reads like a well-sealed floor: smooth paper and graphite surfaces, nothing loud, one hit of the logo's red where the visitor should act. It is Ellie's house calm band style adapted to Kelluc's badge. The logo's black becomes two navies (never black itself), and the triquetra's red becomes the single accent fill.\n\nThe page is a stack of full-bleed bands alternating light and dark so each new section is obvious without dividers: a paper header, the client's own flake-finish front steps under a deep navy overlay, paper, navy, paper, deep navy with a faint diagonal line texture, paper, navy, and a textured deep-navy footer. Density is low: one idea per band, short headings in Cal Sans, generous 64px/96px band padding. Shapes are soft and borderless. Motion is limited to one hero entrance, one fade-up and the floating Messenger circle.\n\nEvery action leads to Facebook Messenger, so the red fill only marks Messenger-bound or quote actions, the numbered steps and the arrow circles on hover.",
+    "keyCharacteristics": [
+      "Paper / graphite navy / deep navy bands; the ground is never black.",
+      "One accent hue (logo red) in five tuned shades, each with a set job.",
+      "Cal Sans headings at weight 400, system-stack body at 16px / 1.7.",
+      "Pill buttons, 24px cards, 18px rows, 10px fields; no borders on surfaces.",
+      "Flat surfaces; the only shadow belongs to the floating Messenger circle.",
+      "Hero H1 letter bounce-in, one 12px fade-up, everything static under reduced motion."
+    ],
+    "rules": [
+      {
+        "name": "The One Red Rule",
+        "body": "Red is the only hue on the page. Fills use Triquetra Red with white text; red as text picks the shade for its ground (Ink on light, Signal on dark or photo, Display only for large words on navy). Never put navy text on red.",
+        "section": "colors"
+      },
+      {
+        "name": "The Never Black Rule",
+        "body": "The logo's black is translated to graphite navy and deep navy. No surface is #000 or near it.",
+        "section": "colors"
+      },
+      {
+        "name": "The Accent Word Rule",
+        "body": "A heading may end in one accent-coloured phrase (\"What we *transform.*\", \"How it *works.*\", \"you'll *love.*\"), on dark bands and in the hero H1. Light-band headings stay all ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Size For Items Rule",
+        "body": "Anything that is an item in a list (row, step, claim, card caption) uses the Title size. No item invents its own size.",
+        "section": "typography"
+      },
+      {
+        "name": "The Single Weight Rule",
+        "body": "Cal Sans is only ever weight 400. Hierarchy comes from size and colour, not bolding.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surfaces Rule",
+        "body": "Cards, rows, buttons and fields carry no shadow and no border at rest. Hover never adds a shadow.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Faint Lines Rule",
+        "body": "The deep-navy texture is `repeating-linear-gradient(135deg, transparent 0 22px, rgba(255,255,255,.035) 22px 23px)`: about 3.5% white, never stronger, so it never reads as lines through text. It belongs to deep-navy bands and the footer only.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Arrow Only Rule",
+        "body": "On hover only the arrow circle changes (fills Triquetra Red, white arrow); the row itself never changes background or gains a shadow. The same pattern serves the \"see more of our work\" Facebook row on paper, as a solid graphite navy block. One column on phones, two from 760px.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "**Do** alternate full-bleed light and dark bands so each section starts with a change of ground; put the line texture on deep navy only.",
+      "**Do** use Triquetra Red as a fill with white text, and pick Ink Red, Signal Red or Display Red by ground when red is text.",
+      "**Do** keep focus and hover outlines on form controls in Focus Blue (3px, 3px offset), and Signal Red rings on dark grounds.",
+      "**Do** use the Title size for every list item and Cal Sans at weight 400 only.",
+      "**Do** keep tap targets at 44px or more and inputs at 16px or more.",
+      "**Do** route every contact action to Facebook Messenger; the floating circle and the form never show at the same time.",
+      "**Do** use real client photos under a deep-navy overlay, `object-fit: cover`, checking text contrast against the brightest pixel."
+    ],
+    "donts": [
+      "**Don't** use black, or any near-black, as a surface.",
+      "**Don't** introduce a second accent hue or a gradient fill on buttons.",
+      "**Don't** put navy or ink text on a red fill.",
+      "**Don't** use Display Red for small text.",
+      "**Don't** add borders or shadows to cards, rows or buttons at rest, or a shadow on hover.",
+      "**Don't** change a service row's background on hover; only its arrow circle responds.",
+      "**Don't** animate any heading other than the hero H1, and don't hide content at opacity 0 without JS or under reduced motion.",
+      "**Don't** raise the diagonal texture above about 4% white."
+    ]
+  }
+}
