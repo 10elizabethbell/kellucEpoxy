@@ -237,7 +237,7 @@ Flat by default. Depth comes from tonal bands (paper against navy against deep n
 
 ## Shapes
 
-Soft, rounded and borderless. Four radii, each with a job: full pills (999px) for every button, chip, arrow circle, step number and the floating circle; 24px for the quote form card and the work photo card; 18px for service rows (the Facebook row is a near match at 20px); 10px for text fields. The logo badge is shown as a circle. Borders only appear as 2px state strokes (focus blue, error) or the ghost button's 70% white outline.
+Soft, rounded and borderless. Four radii, each with a job: full pills (999px) for every button, chip, arrow circle, step number and the floating circle; 24px for the quote form card and the work photo card; 18px for service rows and the Facebook row; 10px for text fields. The logo badge is shown as a circle. Borders only appear as 2px state strokes (focus blue, error) or the ghost button's 70% white outline.
 
 ## Components
 

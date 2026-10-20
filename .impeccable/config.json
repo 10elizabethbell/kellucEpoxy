@@ -26,6 +26,14 @@
         "value": "6px",
         "createdAt": "2026-10-20T17:54:03.966Z",
         "reason": "6px is the global :focus-visible ring rounding (browser surface), not a component shape"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "25px",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-10-20T23:12:57.247Z"
       }
     ]
   }
